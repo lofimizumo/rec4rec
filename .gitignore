@@ -1,7 +1,5 @@
 *.csv
 *.json
-datasets/
-data/
 images/
 gifs/
 *.pyc
